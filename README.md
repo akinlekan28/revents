@@ -1,0 +1,1 @@
+An event ticketing platform built with react, redux and firestore
